@@ -1,0 +1,5 @@
+runtime: custom
+vm: true
+api_version: go1
+health_check:
+  enable_health_check: False
